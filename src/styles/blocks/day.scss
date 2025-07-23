@@ -22,7 +22,6 @@
 
 .calendar__day:hover {
   cursor: pointer;
-  content: '';
   background-color: $pink;
   transform: translateY(-20px);
 }
